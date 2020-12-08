@@ -7,8 +7,9 @@ Source: MovieLens 1M Dataset,
 
 Implementation of research paper Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling (2019)
 <h2> Groups of Reinforcement Learning </h2>
+
 <p align="center">
-  <img src="Images/RL models.png">
+  <img src="Images/RL models.png" width="48">
 </p>
 
 <h2> Actor Critic </h2>
