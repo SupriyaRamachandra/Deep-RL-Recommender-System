@@ -38,7 +38,7 @@ Hit Rate
 
 <h2> Results and model Comparison </h2>
 <p align="center">
-  <img src="Images/ResultsModels.png">
+  <img src="Images/ResultsModels.png" width="50%">
 </p>
 
 <h2> Graph Plot of NDCG@10 and HitRate@10 versus steps without OU noise </h2>
