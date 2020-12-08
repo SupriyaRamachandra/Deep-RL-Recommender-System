@@ -13,3 +13,21 @@ Critic :  Value Based
 <p align="center">
   <img src="Images/The-architecture-of-Actor-Critic-methods-10.png">
 </p>
+
+<h2> Agent & Environment </h2>
+State: User positive interaction history with recommender
+Action: Recommendations
+Environment: User
+Agent: Recommender
+Reward: (1 if rating>3, 0 otherwise)
+
+<h2> Overall Model </h2>
+<p align="center">
+  <img src="full_model.png">
+</p>
+
+<h2> Evaluation metrics </h2>
+NDCG (Normalized Discounted Cumulative Gain)
+Hit Rate
+
+<h2> Results and model Comparison </h2>
