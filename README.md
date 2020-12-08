@@ -16,7 +16,7 @@ Implementation of research paper Deep Reinforcement Learning based Recommendatio
 Actor :  Policy Based
 Critic :  Value Based
 <p align="center">
-  <img src="Images/The-architecture-of-Actor-Critic-methods-10.png" width="50%">
+  <img src="Images/The-architecture-of-Actor-Critic-methods-10.png" width="40%">
 </p>
 
 <h2> Agent & Environment </h2>
