@@ -40,3 +40,11 @@ Hit Rate
 <p align="center">
   <img src="Images/Results.png">
 </p>
+
+<h2> Graph Plot of NDCG@10 and HitRate@10 versus steps without OU noise </h2>
+<p align="center">
+  <img src="Images/ndcg@10.png">
+</p>
+<p align="center">
+  <img src="Images/hitrate@10.png">
+</p>
