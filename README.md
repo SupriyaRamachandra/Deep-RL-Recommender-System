@@ -41,10 +41,18 @@ Hit Rate
   <img src="Images/ResultsModels.png" width="50%">
 </p>
 
-<h2> Graph Plot of NDCG@10 and HitRate@10 versus steps without OU noise </h2>
+<h2> Graph Plot of NDCG@10 and HitRate@10 versus steps without OU (Ornstein Uhlenbeck) noise </h2>
 <p align="center">
   <img src="Images/ndcg@10.png">
 </p>
 <p align="center">
   <img src="Images/hitrate@10.png">
+</p>
+
+<h2> Graph Plot of NDCG@10 and HitRate@10 versus steps with OU noise </h2>
+<p align="center">
+  <img src="Images/ndcg OUnoise.png">
+</p>
+<p align="center">
+  <img src="Images/hit rate ounoise.png">
 </p>
