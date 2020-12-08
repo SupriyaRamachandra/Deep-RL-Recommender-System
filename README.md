@@ -9,7 +9,7 @@ Implementation of research paper Deep Reinforcement Learning based Recommendatio
 <h2> Groups of Reinforcement Learning </h2>
 
 <p align="center">
-  <img src="Images/RL models.png" width="48">
+  <img src="Images/RL models.png" width="50%">
 </p>
 
 <h2> Actor Critic </h2>
