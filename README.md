@@ -26,7 +26,6 @@ State: User positive interaction history with recommender
 Action: Recommendations
 
 Environment: User
-
 Agent: Recommender
 
 Reward: (1 if rating>3, 0 otherwise)
