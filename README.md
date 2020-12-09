@@ -21,6 +21,7 @@ Critic :  Value Based
 </p>
 
 <h2> Agent & Environment </h2>
+
 State: User positive interaction history with recommender
 
 Action: Recommendations
