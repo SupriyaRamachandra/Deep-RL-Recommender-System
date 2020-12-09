@@ -21,14 +21,11 @@ Critic :  Value Based
 </p>
 
 <h2> Agent & Environment </h2>
-State: User positive interaction history with recommender
-
-Action: Recommendations
-
-Environment: User
-Agent: Recommender
-
-Reward: (1 if rating>3, 0 otherwise)
+<h3>State: User positive interaction history with recommender</h3>
+<h3>Action: Recommendations</h3>
+<h3>Environment: User</h3>
+<h3>Agent: Recommender</h3>
+<h3>Reward: (1 if rating>3, 0 otherwise)</h3>
 
 <h2> Overall Model </h2>
 <p align="center">
